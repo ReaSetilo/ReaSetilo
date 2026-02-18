@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reatile</h1>
-<h3 align="center">A passionate fullstack developer and Ai from Botswana</h3>
+<h3 align="center">A passionate fullstack developer, IT and Ai enthusiast from Botswana</h3>
 
 - 📫 How to reach me **reasetilo43@gmail.com**
 
