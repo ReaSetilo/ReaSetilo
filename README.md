@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **I can solve a rubiks cube**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
